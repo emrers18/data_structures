@@ -1,0 +1,23 @@
+# Derlenmiş ikili dosyalar ve nesne dosyaları
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+
+# Hata ayıklama sembolleri
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editör ve IDE ayarları
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
